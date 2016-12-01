@@ -1,0 +1,26 @@
+body {
+  background-color: green;
+  font-family: serif;
+}
+.btn {
+  height: 80px;
+  margin: 20px;
+  border: 2px solid black;
+}
+
+.btn p {
+  display: none;
+}
+.space {
+  height: 50px;
+}
+.game {
+  display: block;
+}
+.new-game {
+  height: 50px;
+  width: 300px;
+}
+.center {
+  margin-left: 15%;
+}
